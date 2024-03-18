@@ -133,7 +133,7 @@ Flags:
 
 Post Pentest Report: 
 			  
-	Based on your notes, here's a draft for a professional and understandable post-penetration testing report for HackTheBox's host `10.10.10.10`.
+
 
 	---
 
