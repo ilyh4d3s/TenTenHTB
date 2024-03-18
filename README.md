@@ -1,5 +1,6 @@
 # TenTenHTB
 my obsidian notes from completing this box 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 nmap:
 			sudo nmap -vvv -sVC -Pn -T4 -p0-65535 10.10.10.10 
 				RESULTS:  Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times may be slower.
